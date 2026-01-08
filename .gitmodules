@@ -1,0 +1,3 @@
+[submodule "is-submodule"]
+	path = is-submodule
+	url = git@github.com:tomjeannesson/is-submodule.git
